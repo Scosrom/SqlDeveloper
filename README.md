@@ -3,6 +3,8 @@
 ## Pasos de descarga:
 
 1. click en el botón SQL Developer en la pagina de descarga.
+   
+https://www.oracle.com/tools/downloads/sqldev-downloads-2121.html
 
 ![image](https://github.com/Scosrom/SqlDeveloper/assets/114906778/f996e735-f36e-4746-90d0-2f4da6e1ba87)
 
