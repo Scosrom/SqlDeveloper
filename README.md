@@ -1,5 +1,5 @@
 # SqlDeveloper
-![image](https://github.com/Scosrom/SqlDeveloper/assets/114906778/d121b118-eb35-45ca-8ab2-f6e7a9e52fa0)
+![image](https://github.com/Scosrom/SqlDeveloper/assets/114906778/740ea205-751d-46f6-bd3d-b321a6219085)
 
 <code>Verion 21.2.1</code>
 
