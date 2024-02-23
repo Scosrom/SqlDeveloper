@@ -5,13 +5,10 @@
 
 ## Pasos de descarga:
 
-1. click en el botón SQL Developer en la pagina de descarga.
    
 https://www.oracle.com/tools/downloads/sqldev-downloads-2121.html
 
-![image](https://github.com/Scosrom/SqlDeveloper/assets/114906778/f996e735-f36e-4746-90d0-2f4da6e1ba87)
-
-2. Buscar el sistema operativo, dar click en el enlace de descarga y aparecerá un login para ingresar tus credenciales de Oracle (Si no posees credenciales lo único que tienes que hacer es crear una cuenta en Oracle).
+1. Buscar el sistema operativo, dar click en el enlace de descarga y aparecerá un login para ingresar tus credenciales de Oracle (Si no posees credenciales lo único que tienes que hacer es crear una cuenta en Oracle).
 
 ![image](https://github.com/Scosrom/SqlDeveloper/assets/114906778/51c8da8f-6484-45e2-8997-e799dcc44f9b)
 
@@ -30,7 +27,7 @@ sudo dpkg --install sqldeveloper_21.2.1-205.1703_all.deb
 # Ejecutamos SQL Developer desde el terminal.
 sudo /opt/sqldeveloper/sqldeveloper.sh
 ```
-
+Algunos sistemas dan algunos errores y no convierten a .deb pero si descomprimen el archivo. Si es así puedes seguir los siguientes pasos, ya que lo necesario sera ejercutar el script sqldeveloper.sh.
 
 ## Crear Icono en el Escritorio
 
